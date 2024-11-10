@@ -1,3 +1,5 @@
 diffusers
 accelerate
 transformers
+matplotlib
+tensorboard
